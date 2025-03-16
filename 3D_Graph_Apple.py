@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jun 18 12:38:44 2019
-
-@author: krish.naik
-"""
-
-## Visualization for Multiple Linear Regression
 
 import numpy as np
 import pandas as pd
